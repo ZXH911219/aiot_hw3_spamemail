@@ -4,3 +4,7 @@ scikit-learn
 joblib
 requests
 pytest
+streamlit
+matplotlib
+seaborn
+altair
